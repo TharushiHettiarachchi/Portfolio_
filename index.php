@@ -28,12 +28,12 @@
 
           <span class="line3">I am a web developer creating dynamic, responsive websites. Explore my projects to see how I bring ideas to life with clean design and user-friendly interfaces.</span>
           <div class="social_panel">
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/github.png"/></a>
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/utube.png"/></a>
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/twitter.png"/></a>
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/email.png"/></a>
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/likdin.png"/></a>
-          <a class="button2" href="#"><img style="width: 20px; height: 20px;" src="resource/whatsapp.png"/></a>
+          <a class="button2" href="https://github.com/TharushiHettiarachchi"><img style="width: 20px; height: 20px;" src="resource/github.png"/></a>
+          <a class="button2" href="https://www.youtube.com/channel/UC49_W_JgX47nFGgwOADvWiA"><img style="width: 20px; height: 20px;" src="resource/utube.png"/></a>
+          <a class="button2" href="https://x.com/tharushii1234"><img style="width: 20px; height: 20px;" src="resource/twitter.png"/></a>
+          <a class="button2" href="tharushihettiarachchi12@gmail.com"><img style="width: 20px; height: 20px;" src="resource/email.png"/></a>
+          <a class="button2" href="https://www.linkedin.com/in/tharushi-hettiarachchi-02284725a/"><img style="width: 20px; height: 20px;" src="resource/likdin.png"/></a>
+          <a class="button2" href="https://wa.me/94766365130"><img style="width: 20px; height: 20px;" src="resource/whatsapp.png"/></a>
           </div>
         </div>
 
